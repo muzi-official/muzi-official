@@ -1,5 +1,5 @@
 
-<a href=""><img width="100%" height="auto" src="https://github.com/muzi-official/muzi-official/blob/master/MuzDev.gif" height="100px"/></a>
+<a href=""><img width="100%" height="auto" src="https://github.com/muzi-official/muzi-official/blob/master/muz.png" height="100px"/></a>
 
 <h1 align="center">Hi All <img src="https://github.com/muzi-official/muzi-official/blob/master/MuzWave.gif" width="30px"/>, I'm Syed Muzammil Ashfaque</h1>
 
